@@ -1,0 +1,18 @@
+@font-face {font-family: "iconfont";
+  src: url('./iconfont/iconfont.eot?t=1581652733622'); /* IE9 */
+  src: url('./iconfont/iconfont.eot?t=1581652733622#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQ8AAsAAAAACIgAAAPvAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqEIINUATYCJAMUCwwABCAFhG0HTRtlB8gekiRIwAEHFCgAAAkR0K+x32fHYdogiUbV6eLRE4khFEKCTCuUzrdmEtod/5t6hFSNitGZxCrqtJtHgNIIkLxMxDQyMf2zBgggiv8/l9O7hk3A+e0spzGHjTUxwLjnvYD2BtpYoEUBcsPYTZQHcZqANiO6wfaKKhrAXQYmBYR7jlWDe0ov12QGtaAqWZkhvICLOk6WXAPwzL8ffoEqdxCVBGDm/l2hDnK+wptIfNT/UXpTBATjWaGtI2EWyISHUvs9PAzOwrU5fqkt4P5Wi+JXeEO8CXsT+b8BgnhHyjYoN8YfL8qECoC8QyRuhTJfAWMkvhIYga9hGJGvkcIXk15Am5jyCnwGQBr1fkWQhB7/WG8P3CvCO3Cw7wVHG5e1zmK/8/Y46SrbkH3HoqTLjyf6HTwZ67LiRBKaQjgcRP58e+FFZ3rXk84mL7u9NuOEg7LZMjods/XqyVW4yk6rbNS6Y6OOT905egfPBPS7ZWtc65RfqNhhs1JbDrRzPqAc0xpsYxrtz5sWLe/ceHhq+snRGts0yjG2yTm90T7GOIVgFowOZRdO3TwqWEfPH7Up6Vvqk1O1dVE1UbW1p5+cJrxwbJ1yr9L/MVaDPfZ/wp+yYYJUUQDscqOmbZ2sdveg8qx361dxNa5YMzaXijtxbERZMZbrOrN/zru54+tigxSFhTiOX1aZW1AQHFRQmLB/FKYC1ZXfIHYrrwP8n9HYZbp32eMsi1ZryXpc4j2984IWUQy4KVYPIghWPwRlDUZocBYaomcJYlA18UdiFmObY7EehVuY/h6I1p/xEMk94Eu27+aTKxZFLSKWzVF5TLNhIpQsCmJgENCA/S5IIa0AkJ4kQQDNqvQcV/PwKVyK5/z4UbYveub288v47e51xZ53S859idsfXWW/BPh7Cq0Fv7lThuY/yLoI6Eu2Dc1/LsBlAorjF4SPPL3m57r7PBlHOdjaT1CnBBpELYYhqY2imTgLRbs5qNQ2oc2M4vXt+pnhQvYApo0XIOixE6Iub5D0uI5m4mMohnyGSk84tDkNQTu2G4/zzDfTakTrSM1gktPyJgaZkGeQWUezVoPanBRxOkWbLZyHVMoU2UgxbaLNY8yxDGBVCDEkY+aNZJFwHm0w8KRg5ltpLZK1ICSkyeVM2YVkWt4InnaZ0dQQmg5JYzASR4tnwtDWiGfu83VoLCsDNXNNQ4eTQjOz4LonKckoWqDFclOrhmvpbzEASwVBGHkcw4xnRCoSrTQDDPJIQvmwVjQtRKalh1+QRi41Y9rKZfMrjc+4DdqA/UqQYDgmxVwwV6gerQKnNrm1Eh/irW4WnGNpsfKujNrEbBwAAA==') format('woff2'),
+  url('./iconfont/iconfont.woff?t=1581652733622') format('woff'),
+  url('./iconfont/iconfont.ttf?t=1581652733622') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('./iconfont/iconfont.svg?t=1581652733622#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
